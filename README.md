@@ -19,7 +19,7 @@ balenaCloud is a free service to remotely manage and update your IoT devices thr
 
 You can one-click-deploy this project to balena using the button below:
 
-[![deploy button](https://balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/klutchell/balena-adguard&defaultDeviceType=raspberrypi3-64)
+[![deploy button](https://balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/shiloh0920/balena-adguard&defaultDeviceType=raspberrypi4)
 
 ## Manual Deployment
 
